@@ -1,0 +1,10 @@
+/IoStream/.idea/
+
+**/.mvn
+**/target/
+
+.idea
+
+**/.gitignore
+
+*.iml
